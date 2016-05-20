@@ -10,6 +10,11 @@
 
 html{
 	margin: 1em;
+
+}
+
+body,em{
+	line-height: 1.4em;
 }
 
 hr{
@@ -22,8 +27,31 @@ hr{
 
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Libre Baskerville', serif;
+
+}
+
+h1,h2,h4{
+	color: black;
+}
+
+h3{
+	color: #848484;
+}
+
+p{
+	line-height: 1.4em;
+	font-family: 'Libre Baskerville', serif;
 }
 
 a{
 	color: black;
+}
+
+table,th{
+	padding: 1em;
+
+}
+
+td{
+	padding: 0.5em;
 }
