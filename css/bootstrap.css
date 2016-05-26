@@ -10,15 +10,16 @@
 
 .summary{
 	line-height: 2em;
+	font-family: 'Libre Baskerville', serif;
 }
 
 html{
 	margin: 1em;
-
 }
 
 body,em{
 	line-height: 1.4em;
+	font-family: 'Libre Baskerville', serif;
 }
 
 hr{
@@ -57,7 +58,6 @@ a{
 
 table,th{
 	padding: 1em;
-
 }
 
 td{
