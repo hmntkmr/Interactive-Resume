@@ -8,6 +8,10 @@
 	color: black;
 }
 
+.summary{
+	line-height: 2em;
+}
+
 html{
 	margin: 1em;
 
@@ -36,6 +40,10 @@ h1,h2,h4{
 
 h3{
 	color: #848484;
+}
+
+img{
+	height: auto;
 }
 
 p{
